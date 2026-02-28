@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+plotly
+plotly.express   # opcional, pero a veces ayuda en versiones antiguas
